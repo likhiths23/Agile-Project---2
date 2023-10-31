@@ -1,0 +1,10 @@
+Project report format
+
+1. Front Page like SRS - Your name, Proj name - Devops
+2. SDLC Life Cycle - explain Requiremnts, RA, Design, Coding, UT,IT,ST and Deployment
+3. Explain UT - Demo Pyunit with simple code
+4. Explain ST - Demo UIpath RPA
+5. Explain Version control - Demo Git and Github
+6. Explain CI/CB/CT/CD - Demo with GITactions
+7. Explain - Docker,Docker file, Docker Image - demo Docker and Dockerhub
+8. Conclusion
