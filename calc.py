@@ -100,4 +100,5 @@ class CalculatorTest(unittest.TestCase):
         self.assertEqual(3, self.calc.divide(6, 2), "Division is wrong")
 
 if __name__ == '__main__':
+    print("Hi")
     unittest.main()
