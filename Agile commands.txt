@@ -1,0 +1,17 @@
+Sequence of commands to execute in project-2:
+
+Git Actions:
+
+1.git clone https://github.com/AKxy4321/Project-2---DevOps.git - for old repository
+2.git remote add origin https://github.com/likhiths23/Agile-Project-2.git - for new repository
+3.git branch -M main  
+4.git init  
+5.git add * 
+6.git commit -m ooh 
+7.git push -u actions main  
+
+Docker:
+
+1.docker build -t likhiths23/devops:devops .
+2.docker push  likhiths23/devops:devops 
+3.docker run -p 5000:5000 likhiths23/devops:devops
